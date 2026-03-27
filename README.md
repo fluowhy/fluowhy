@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on mathematical modelling and building software systems at Scotiabank Chile, as Data Scientist. At home I'm working on the design and implementation of a quadcopter, in terms of the hardware, electronics and software to fly it.
 - ✍🏻 I have an MSE in Electrical Engineering and a BSc in Physics and Electrical Engineering.
 - 🌱 I’m currently learning about robotics and deploying machine learning models on hardware.
-- 🤝 I’m looking to collaborate on open source projects and projects related to boost the use of machine learning on hardware and manufacturing.
+- 🤝 I’m looking to collaborate on open source projects and projects related to boost the use of machine learning on hardware.
 - 📫 How to reach me: Telegram @MauricioRomeroJ
 - 🧮 Python and C++
   
